@@ -9,8 +9,9 @@ Mohamad, A. A. (2019). Lattice Boltzmann Method: Fundamentals and Engineering Ap
 The implementations in this repository have been modified, extended, and documented for educational and research purposes. Any remaining errors or modifications are entirely my own.
 
 # Citation
+''' bibtex
 @book{Mohamad2019LBM, 
-    author = {A. A. Mohamad}, 
+    author = {A. A. Mohamad},
     title = {Lattice Boltzmann Method: Fundamentals and Engineering Applications with Computer Codes}, 
     edition = {2}, 
     publisher = {Springer London}, 
@@ -18,3 +19,4 @@ The implementations in this repository have been modified, extended, and documen
     doi = {10.1007/978-1-4471-7423-3}, 
     isbn = {978-1-4471-7422-6} 
 }
+'''
