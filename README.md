@@ -1,4 +1,4 @@
-This repository contains my personal notes and some projects on the Lattice Boltzmann Method.
+This repository contains my personal notes, Python-converted code, and some projects on the Lattice Boltzmann Method.
 
 # Acknowledgement
 
